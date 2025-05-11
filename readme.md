@@ -2,6 +2,8 @@
 
 A spooky 3D scene with a haunted house, floating ghosts, graves, and eerie lighting, built with **Three.js**. This project demonstrates realistic textures, shadows, fog, and camera controls.
 
+🔗 [Live Demo](https://haunted-house-rho-one.vercel.app)  
+
 ## 🚀 **Features**
 
 * **Haunted House** with detailed walls, roof, and door 🚪
@@ -16,7 +18,7 @@ A spooky 3D scene with a haunted house, floating ghosts, graves, and eerie light
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/your-username/haunted-house-threejs.git
+   git clone https://github.com/Dev-Dipu/Haunted-House.git
    cd haunted-house-threejs
    ```
 2. Install dependencies:
